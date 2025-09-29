@@ -26,13 +26,16 @@
 
 ## 🚀 **Proyectos Destacados**
 
-| Proyecto                          | Descripción                                                                 | Tecnologías     | Estado     | Repositorio                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------|-----------------|------------|------------------------------------------------------------------------------|
-| ✈️ Booking Flights *(POO)*       | Sistema para gestionar reservas de vuelos basado en POO                    | Java, JavaFX    | 🔴 Finalizado | [Ver en GitHub](https://github.com/GenesisMichilena/POO5_2P_Michilena_Benitez_Ullaguari) |
-| 📦 Sistema de Encomiendas *(POO)*| Gestión de envíos y encomiendas usando programación orientada a objetos    | Java, JavaFX    | 🔴 Finalizado | [Ver en GitHub](https://github.com/GenesisMichilena/POO5_1P_Michilena_Benitez_Ullaguari) |
-| 📱 App de Contactos *(EDD)*      | Aplicación para organizar contactos con estructuras de datos eficientes    | Java, JavaFX    | 🔴 Finalizado | [Ver en GitHub](https://github.com/DiegoBedoya1/Proyecto-Estructuras)       |
+| Proyecto                           | Descripción                                                                                   | Tecnologías                      | Estado           | Repositorio                                                                 |
+|---------------------------------- |----------------------------------------------------------------------------------------------|---------------------------------|------------------|-----------------------------------------------------------------------------|
+| ✈️ Booking Flights *(POO)*        | Sistema para gestionar reservas de vuelos basado en POO                                     | Java, JavaFX                    | 🟢 Finalizado     | [Ver en GitHub](https://github.com/GenesisMichilena/POO5_2P_Michilena_Benitez_Ullaguari) |
+| 📦 Sistema de Encomiendas *(POO)* | Gestión de envíos y encomiendas usando programación orientada a objetos                       | Java, JavaFX                    | 🟢 Finalizado     | [Ver en GitHub](https://github.com/GenesisMichilena/POO5_1P_Michilena_Benitez_Ullaguari) |
+| 📱 App de Contactos *(EDD)*       | Aplicación para organizar contactos con estructuras de datos eficientes                      | Java, JavaFX                    | 🟢 Finalizado     | [Ver en GitHub](https://github.com/DiegoBedoya1/Proyecto-Estructuras)        |
+| 🌱 EcoEventos                     | Plataforma web para organizar eventos ecológicos, con registro de participantes y recursos | PhP, Laravel, JavaScript | 🟡 En desarrollo  | [Ver en GitHub](https://github.com/JohnUllaguari/EcoEventos)                 |
+| 🌦️ Climate Sense Dashboard Hub    | Dashboard interactivo con visualización de datos climáticos mediante gráficos dinámicos     | React, TypeScript, TailwindCSS | 🟢 Finalizado     | [Ver en GitHub](https://github.com/JohnUllaguari/climate-sense-dashboard-hub)|
+| 👽 Rick and Morty Web App          | Aplicación que consume API pública para mostrar personajes, episodios y ubicaciones         | Angular , TypeScript, HTML   | 🟢 Finalizado     | [Ver en GitHub](https://github.com/JohnUllaguari/rick-and-morty-angular-v20) |
+| 🧠 Compilador PHP                 | Proyecto académico que simula análisis léxico y sintáctico para código PHP                   | Python, PhP           | 🟢 Finalizado     | [Ver en GitHub](https://github.com/JohnUllaguari/Grupo1__PHP)                |
 
----
 
 ## 💡 **Áreas de Interés**
 
