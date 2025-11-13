@@ -6,10 +6,10 @@
 
 ## **Índice de Contenidos**
 
-- 🔹 [Información Personal](#-información-personal)  
-- 🔹 [Proyectos Destacados](#-proyectos-destacados)  
-- 🔹 [Áreas de Interés](#-áreas-de-interés)  
-- 🔹 [Contacto](#-contacto)
+- [Información Personal](#-información-personal)  
+- [Proyectos Destacados](#-proyectos-destacados)  
+- [Áreas de Interés](#-áreas-de-interés)  
+- [Contacto](#-contacto)
 
 ---
 
@@ -38,9 +38,9 @@
 | 🌐 **Panora**                        | Proyecto externo en el que contribuí de forma independiente, trabajando en backend y frontend. Backend con PostgreSQL y Django; frontend también en Django. Se encuentra en GitLab (ramas *local* y *John*). | Django, PostgreSQL              | 🟢 Contribución     | [Ver en GitLab](https://gitlab.com/JohnUllaguari) |
 
 
-## 💡 **Áreas de Interés**
+## **Áreas de Interés**
 
-🎯 Me entusiasma aprender, crear y mejorar constantemente en estas áreas:
+Me entusiasma aprender, crear y mejorar constantemente en estas áreas:
 
 - 📱 **Desarrollo de aplicaciones móviles y web**  
 - 🧠 **Inteligencia Artificial y Machine Learning**  
@@ -53,8 +53,8 @@
 
 Si deseas colaborar, preguntar algo o simplemente saludar, ¡no dudes en escribirme!
 
-- 📧 **Correo:** [johjaull@espol.edu.ec](mailto:johjaull@espol.edu.ec)  
-- 💻 **GitHub:** [@johnullaguari](https://github.com/johnullaguari)
+- **Correo:** [johjaull@espol.edu.ec](mailto:johjaull@espol.edu.ec)  
+- **GitHub:** [@johnullaguari](https://github.com/johnullaguari)
 
 ---
 
