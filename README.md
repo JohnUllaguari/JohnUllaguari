@@ -12,8 +12,8 @@
 | 🧠 **PHP Compiler** | Academic lexer & parser simulation. | Python, PHP | 🟢 Finished | [GitHub](https://github.com/JohnUllaguari/Grupo1__PHP) |
 | ❤️ **iSponsor** | Donation platform for children. | React, Next.js, Supabase | 🟢 Finished | [GitHub](https://github.com/JamesIGT/iSponsor) |
 | 🌐 **Panora** | External project: backend & frontend contributions. | Django, PostgreSQL | 🟢 Contribution | [GitLab](https://gitlab.com/JohnUllaguari) |
-| ☀️ **IZETROM** | E-commerce website for selling renewable energy products | Typescript, n8n | 🟢 Finished | [GitHub]([](https://github.com/JohnUllaguari/Izetrom)) |
-| 🔐 **AUTOPENTEST** | Automated penetration testing platform powered by local AI (Llama 3) | Python, Llama 3 | 🟡 In progress | [GitHub]([](https://github.com/JohnUllaguari/autopentest) |
+| ☀️ **IZETROM** | E-commerce website for selling renewable energy products | Typescript, n8n | 🟢 Finished | [GitHub](https://github.com/JohnUllaguari/Izetrom) |
+| 🔐 **AUTOPENTEST** | Automated penetration testing platform powered by local AI (Llama 3) | Python, Llama 3 | 🟡 In progress | [GitHub](https://github.com/JohnUllaguari/autopentest) |
 
 
 ## 💻 Tech Stack:
